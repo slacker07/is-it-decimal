@@ -1,4 +1,4 @@
-const isDecimal = (n) => {
+const isItDecimal = (n) => {
     try {
         return Number(n) === n && n % 1 !== 0;
     } catch (error) {
@@ -7,5 +7,5 @@ const isDecimal = (n) => {
 }
 
 module.exports = {
-    isDecimal
+    isItDecimal
 };
