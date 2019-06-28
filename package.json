@@ -1,6 +1,6 @@
 {
   "name": "is-it-decimal",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "description": "Checks whether the number is decimal or not",
   "main": "index.js",
   "scripts": {
